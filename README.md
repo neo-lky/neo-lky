@@ -11,4 +11,4 @@ Math researcher @Berkeley | AI researcher engineer @Berkeley.
 - 🌱 UC Berkeley - Honors Math & CS
 - 📧 <neo.lky@berkeley.edu> - research related
 - 📧 <neo.lky852@gmail.com> - grab a coffee
-- 📖 Interests: Differential Topology, Stohcastic Game Theory, Mechanistic Interpretibility
+- 📖 Interests: Differential Topology, Stohcastic Game Theory, Mechanistic Interpretibility, AI Alignment

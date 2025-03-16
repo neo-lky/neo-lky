@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Building @Skylow-AI (hiring). Backed by YC / MiraclePlus / UC Berkeley SkyLab
+Building @Skylow-AI (hiring). Backed by MiraclePlus / UC Berkeley SkyLab. Academic hiatus.
 
 Math researcher @Berkeley | AI researcher engineer @Berkeley.
 

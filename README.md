@@ -1,14 +1,14 @@
-## Hi there 👋
+## Always hiring
 
-Building @Skylow-AI (hiring). Backed by MiraclePlus / UC Berkeley SkyLab. Academic hiatus.
+Building @ Imagine AI (YC F25). Foundation Capital, CalBuild, Founders Inc., Mindworks Capital.
 
-Math researcher @Berkeley | AI researcher engineer @Berkeley.
+Prev Math researcher @ Berkeley.
 
-> Math: Working with [Professor Alan Hammond](<https://math.berkeley.edu/~alanmh/>) on stochastic game theory.
+> Math: Forever grateful to my mentor [Professor Alan Hammond](<https://math.berkeley.edu/~alanmh/>) on stochastic game theory.
 
-> ML: Specializes in mechanistic interpretibility and software engineering, with 2+ years of experience in collaborating with ML researchers to turn research into products.
+> ML: Forever grateful to my mentor [Chan Bae (Soon Dr. Chan](https://www.linkedin.com/in/chan-bae-5b3113ba/) on mechanistic interpretibility.
 
 - 🌱 UC Berkeley - Honors Math & CS
 - 📧 <neo.lky@berkeley.edu> - research related
 - 📧 <neo.lky852@gmail.com> - grab a coffee
-- 📖 Interests: Differential Topology, Stochastic Game Theory, Mechanistic Interpretibility, AI Alignment
+- 📖 Interests: AI Alignement, Stochastic Game Theory, Differential Topology, Mechanistic Interpretibility

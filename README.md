@@ -6,7 +6,7 @@ Prev Math researcher @ Berkeley.
 
 > AI: Forever grateful to my mentor [Chan Bae (Dr. Chan Soon)](https://www.linkedin.com/in/chan-bae-5b3113ba/) on mechanistic interpretibility.
 
-- 🌱 UC Berkeley - Honors Math & CS (Hiatus since 2024 Jan)
+- 🐻 UC Berkeley - Honors Math & CS (Hiatus since 2024 Jan)
 - 📧 <neo.lky@berkeley.edu> - research related
 - 📧 <neo.lky852@gmail.com> - grab a coffee
 - 📖 Interests: AI Alignement, Stochastic Game Theory, Differential Topology, Mechanistic Interpretibility

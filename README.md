@@ -1,6 +1,6 @@
-Building @ Imagine AI (YC F25). Foundation Capital, CalBuild, Founders Inc., Mindworks Capital.
+Building @ Imagine AI (YC F25).
 
-Prev Math researcher @ Berkeley.
+Prev researcher @ Berkeley.
 
 > Math: Forever grateful to my mentor [Professor Alan Hammond](<https://math.berkeley.edu/~alanmh/>) on stochastic game theory.
 

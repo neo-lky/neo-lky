@@ -10,6 +10,6 @@ Prev researcher @ Berkeley.
 - 📧 <neo@imagineai.me> - Imagine AI related
 - 📧 <neo.lky@berkeley.edu> - research related
 - 📧 <neo.lky852@gmail.com> - if you know me personally (please use cautiously)
-- 📖 Interests: AI Alignement, Stochastic Game Theory, Differential Topology, Mechanistic Interpretibility
+- 📖 Interests: AI Alignement, Game Theory, Differential Topology, Mechanistic Interpretibility
 
 *\#always-hiring*

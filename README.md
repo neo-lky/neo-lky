@@ -8,7 +8,8 @@ Prev researcher @ Berkeley.
 
 - 🐻 UC Berkeley - Honors Math & CS (Hiatus since 2024 Jan)
 - 📧 <neo.lky@berkeley.edu> - research related
-- 📧 <neo.lky852@gmail.com> - grab a coffee
+- 📧 <neo@imagineai.me> - Imagine AI related
+- 📧 <neo.lky852@gmail.com> - if you know me personally
 - 📖 Interests: AI Alignement, Stochastic Game Theory, Differential Topology, Mechanistic Interpretibility
 
 *\#always-hiring*
